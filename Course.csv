@@ -1,0 +1,6 @@
+CourseId,CourseName,Credits,Description,StudentId,ProfessorId
+C001,Math,3,Basic Mathematics,S001,P001
+C002,Physics,4,Intro to Physics,S002,P002
+C003,Chemistry,3,Organic Chemistry,S003,P003
+C004,Biology,2,Plant Biology,S004,P002
+C005,Computer Science,5,Python Programming,S005,P001

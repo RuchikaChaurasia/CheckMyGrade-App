@@ -1,0 +1,16 @@
+Email,PasswordHash,Role
+admin@gmail.com,1f9b77443384592962474c19168122153b04936a7eb18c04b294c3890749902b,Admin
+prof1@gmail.com,,Professor
+prof2@gmail.com,,Professor
+prof3@gmail.com,,Professor
+student1@gmail.com,,Student
+student2@gmail.com,,Student
+student3@gmail.com,,Student
+student4@gmail.com,,Student
+student5@gmail.com,,Student
+student6@gmail.com,,Student
+student7@gmail.com,,Student
+student8@gmail.com,,Student
+student9@gmail.com,,Student
+student10@gmail.com,,Student
+ruchi@gmail.com,17a613e8d82d078383c3d732db15bcd633c8d03b9ec2a1dc4e9e70e5252374a7,Student

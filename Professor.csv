@@ -1,0 +1,4 @@
+ProfessorId,ProfEmail,ProfessorName,ProfRank,CourseId
+P001,prof1@gmail.com,Dr. Smith,Senior,C001
+P002,prof2@gmail.com,Dr. Alice,Associate,C002
+P003,prof3@gmail.com,Dr. Bob,Assistant,C003

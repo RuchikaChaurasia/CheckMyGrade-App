@@ -1,0 +1,12 @@
+StudentId,StudentEmail,CourseId,CourseName,ProfessorId,ProfessorEmail,Grade,Marks
+S001,student1@gmail.com,C002,Physics,P002,prof2@gmail.com,F,0
+S002,student2@gmail.com,C003,Chemistry,P003,prof3@gmail.com,F,0
+S003,student3@gmail.com,C004,Biology,P001,prof1@gmail.com,F,0
+S004,student4@gmail.com,C005,Computer Science,P002,prof2@gmail.com,F,0
+S005,student5@gmail.com,C001,Math,P003,prof3@gmail.com,F,0
+S006,student6@gmail.com,C002,Physics,P001,prof1@gmail.com,F,0
+S007,student7@gmail.com,C003,Chemistry,P002,prof2@gmail.com,F,0
+S008,student8@gmail.com,C004,Biology,P003,prof3@gmail.com,F,0
+S009,student9@gmail.com,C005,Computer Science,P001,prof1@gmail.com,F,0
+S010,student10@gmail.com,C001,Math,P002,prof2@gmail.com,F,0
+r,ruchi@gmail.com,data200,python,prof,prof@gmail.com,F,0
